@@ -10,6 +10,7 @@ Brief project description [here](http://jerstew.github.io/css3gen/about.html "pr
 2. Add color picker for color inputs
 3. Consider stacked layout for right two columns
 4. Add more properties
+5. Copy to clipboard!
 
 ##Inspiration
 [CSS3 Generator](http://css3generator.com/) by [Randy Jensen](http://www.randyjensen.com/). One of my most visited tools over the past couple of years. Insanely valuable and recently redesigned.
