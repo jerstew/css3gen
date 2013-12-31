@@ -3,7 +3,7 @@ CSS3 Generator
 
 A simple, responsive CSS3 generator built with Foundation Framework, jQuery UI, and just a little love.
 
-Brief project description [here](http://jerstew.github.io/css3gen/about.html "project page"). Built over approximately two weeks of intermittent progress and lots of picking.
+[Working generator here](http://jerstew.github.io/css3gen). Brief project description [here](http://jerstew.github.io/css3gen/about.html "project page"). Built over approximately two weeks of intermittent progress and lots of picking.
 
 ##To-Do
 1. Add optional RGBA input where now only HEX is offered
