@@ -16,10 +16,12 @@ body {
     height:100%; }
 
     .top-bar {
+      height:auto;
         }
 
         .top-bar-section ul li > a {
-            font-size:0.917rem; }
+            font-size:0.917rem;
+            width:auto; }
 
             .top-bar-section li a:not(.button):hover {
                 background:#272822; }
