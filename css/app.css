@@ -16,10 +16,12 @@ body {
     height:100%; }
 
     .top-bar {
+      height:auto;
         }
 
         .top-bar-section ul li > a {
-            font-size:0.917rem; }
+            font-size:0.917rem;
+            width:auto; }
 
             .top-bar-section li a:not(.button):hover {
                 background:#272822; }
@@ -45,7 +47,6 @@ body {
             overflow:hidden; }
 
     .pane-preview {
-        height:100%;
         margin:0;
         padding:0; }
         
@@ -57,7 +58,7 @@ body {
 
         .code-block {
             background:#272822;
-            height:50%;
+            min-height:100%;
             margin:0;
             padding:0; }
 
@@ -77,7 +78,7 @@ body {
                     white-space:pre-line; }
         
         .live-preview {
-            height:50%; }
+            height:100%; }
 
             #example {
                 background:#999;
@@ -147,22 +148,12 @@ h6 {
   font-size:0.875rem; }
 
 @media only screen and (min-width:40.063em) {
+
     .pane-properties {
         min-height:100%; }
-
+    
     .pane-preview {
         height:100%;
         min-height:100%; }
-
-}
-
-@media only screen and (min-width:60.429em) {
-
-    .code-block {
-        min-height:100%;
-    }
-    .live-preview {
-        height:100%;
-    }
 
 }
