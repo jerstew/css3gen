@@ -16,8 +16,12 @@ body {
     height:100%; }
 
     .top-bar {
-        width:auto;
+        height:auto;
     }
+    
+        .top-bar .name h1 a {
+            width:auto;
+        }
 
         .top-bar-section ul li > a {
             font-size:0.917rem;
