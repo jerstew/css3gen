@@ -19,4 +19,4 @@ A simple, responsive CSS3 generator built with Foundation Framework, jQuery UI, 
 Please do. I'm by no means a JavaScript pro. This project is mostly about learning and having fun, so I would appreciate any suggestions, additions, or corrections.
 
 ##License
-**CSS3 Generator** is available under the MIT license. See the LICENSE file for more information.
+CSS3 Generator is available under the **MIT license**. See the LICENSE file for more information.
